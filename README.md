@@ -1,8 +1,7 @@
 # Figma to Angular Converter
 
 This demonstrates using the Figma REST API to convert a Figma document to Angular Components and Figma components module.
-Disclaimer: this code is likely incomplete, and may have bugs. It is not intended to be used
-in production. This is simply a proof of concept to show what possibilities exist.
+Disclaimer: this code is likely incomplete, and may have bugs. This is simply a proof of concept to show what possibilities exist.
 
 From this PR: https://github.com/figma/figma-api-demo/pull/16
 
